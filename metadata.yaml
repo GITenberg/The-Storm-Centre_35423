@@ -1,0 +1,29 @@
+_repo: The-Storm-Centre_35423
+_version: 0.1.0
+alternative_title: 'The Storm Center: A Novel'
+covers:
+- cover_type: archival
+  image_path: 35423-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Murfree, Mary Noailles
+    alias: Craddock, Charles Egbert
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '1759'
+    url: http://www.gutenberg.org/2009/agents/1759
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Noailles_Murfree
+description: ''
+gutenberg_issued: '2011-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+title: 'The Storm Centre: A Novel'
+url: http://www.gutenberg.org/ebooks/35423
